@@ -4,7 +4,7 @@ A lightweight Windows overlay that helps you keep your content inside the area y
 
 ## Download
 
-**[Download the latest Windows app](https://github.com/glambershamble/obs-frame-guides/releases/latest)**
+**[Download the latest Windows app](https://github.com/Despagreeko/obs-frame-guides/releases/latest)**
 
 Download `OBS-Frame-Guides-Windows.zip` from the release, extract it, and open `OBS Frame Guides.exe`. No installer is needed.
 
